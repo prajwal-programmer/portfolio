@@ -19,7 +19,7 @@ export default function Home() {
 
       <section className="flex flex-col md:flex-row items-center justify-center text-center md:text-left p-10">
         <div className="max-w-xl">
-          <h2 className="text-4xl font-bold mb-3">Hello, I'm Prajwal</h2>
+          <h2 className="text-4xl font-bold mb-3">Hello, I'm Prajwal Biradar</h2>
           <p className="text-lg mb-5">"A Computer Science Engineering student driven by passion and curiosity."</p>
           <a href="#projects" className="px-5 py-2 border rounded-lg">VIEW PROJECTS</a>
         </div>
